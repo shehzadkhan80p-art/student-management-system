@@ -1,6 +1,13 @@
 The system allows users to add, view, update, and delete student information. All the data is stored in a CSV file, so it is lightweight and easy to use without any database setup.
 
 It is designed for beginners who want to learn how real-world CRUD (Create, Read, Update, Delete) applications work using Python.
+## 🚀 How to Run
+
+1. Install requirements:
+   pip install streamlit pandas
+
+2. Run the app:
+   streamlit run app.py
 
 ✨ Features
 ➕ Add new student records
